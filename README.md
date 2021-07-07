@@ -1,2 +1,2 @@
-# Library_Management
+# Library
 My first repository on Github(AmirHossein Alinaghi)
